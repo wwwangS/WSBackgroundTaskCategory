@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "761AB62A1E6E53E9632B344140160E49A1592063",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B92EEF61A697367A4010751C014413182925DE64" : 9223372036854775807,
+    "761AB62A1E6E53E9632B344140160E49A1592063" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2622AD84-513D-4AD7-8159-BB5B1C7EF400",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B92EEF61A697367A4010751C014413182925DE64" : "",
+    "761AB62A1E6E53E9632B344140160E49A1592063" : "WSBackgroundTaskCategory\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WSBackgroundTaskCategory",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WSBackgroundTaskCategory.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wwwangS\/WSBackgroundTaskCategory",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "761AB62A1E6E53E9632B344140160E49A1592063"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/fkkk\/Returnees.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B92EEF61A697367A4010751C014413182925DE64"
+    }
+  ]
+}
