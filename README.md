@@ -18,7 +18,7 @@
 
 - (void)applicationDidBecomeActive:(UIApplication *)application {
 
-    // beginBackgroundTask
+    // endBackgroundTask
     [self endBackgroundTask];
 }
 ```
