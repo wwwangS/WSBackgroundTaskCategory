@@ -76,7 +76,7 @@ static const void * timerKey;
 }
 
 
-#pragma mark -
+#pragma mark - setter && getter
 
 
 -(UIBackgroundTaskIdentifier)backgroundTaskIdentifier{

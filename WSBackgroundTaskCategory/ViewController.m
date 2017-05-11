@@ -10,7 +10,7 @@
 
 @interface ViewController ()
 {
-    NSTimer *_timer;
+    NSTimer * _timer;
     NSInteger _date;
     
     UILabel * _textLabel;
